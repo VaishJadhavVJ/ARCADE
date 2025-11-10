@@ -85,7 +85,7 @@ ARCADE is a Unity-based AR app designed to bridge the gap between theory and pra
 ## 🙌 Contributors
 
 - **Vaishnavi Jadhav** – Developer & AR Engineer
-- **Mangesh Kadam** – UI/UX Designer & AR Interaction Designer
+- **Mangesh Kadam** – AR Engineer and UI Designer
 - **Shraddha Kunwar** – 3D Artist & Visual Content Creator
 - **Sonal Jadhav** – Technical Writer & Project Documentarian
 
